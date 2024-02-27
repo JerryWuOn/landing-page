@@ -16,9 +16,9 @@ export default function Pricing() {
 
                     <div className="text-4xl font-raleway mb-2 font-semibold" style={{fontSize: '2em', marginBottom: '20px'}}>Free</div>
                     <div className=" font-raleway text-sm">
-                        With premium users are given exclusive access to everything.
+                        With free users are given limited access to features.
                     </div>
-                    <div className="text-md text-sm">
+                    <div className="text-md text-sm " style={{ marginBottom: '20px'}}>
                         Free
                     </div>
                     <div style={{display:"flex",justifyContent:"center"}}>
@@ -36,9 +36,9 @@ export default function Pricing() {
                         </div>
                         <div className="text-4xl font-raleway mb-2 xl:text-3xl font-semibold" style={{fontSize: '2em', marginBottom: '20px'}} >Standard</div>
                     <div className="text-xl font-raleway text-md">
-                        With premium users are given exclusive access to everything.
+                        With Standard users are given standard access to most features.
                     </div>
-                    <div className="text-md text-sm">
+                    <div className="text-md text-sm " style={{ marginBottom: '20px'}}>
                         $5/month
                     </div>
                     
@@ -59,7 +59,7 @@ export default function Pricing() {
                     <div className="text-xl font-raleway text-md">
                         With premium users are given exclusive access to everything.
                     </div>
-                    <div className="text-md text-sm">
+                    <div className="text-md text-sm " style={{ marginBottom: '20px'}}>
                         $10/month
                     </div>
                     <div style={{display:"flex",justifyContent:"center"}}>

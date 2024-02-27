@@ -9,9 +9,9 @@ export default function SubBanner(){
                     </a>
                 </div>
                 <div className="flex flex-col h-full" style={{width: '580px'}}>
-                    <b className="text-3xl">
+                    <div className="text-3xl" style={{width: '300px'}}>
                         Venture's service stands out with curated listings and a user-friendly platform, ensuring your next move is a confident and enjoyable experience.
-                    </b>
+                    </div>
                 </div>
             </div>
         </div>
