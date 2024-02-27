@@ -9,7 +9,7 @@ export default function Footer(){
                     </div>
                 </div>
                 <div className="flex gap-10 text-black">
-                    <a href="/" className='text-2xl self-center hover:text-grey'>
+                    <a href="https://github.com/JerryWuOn/landing-page" className='text-2xl self-center hover:text-grey'>
                         Github
                     </a>
                 </div>
